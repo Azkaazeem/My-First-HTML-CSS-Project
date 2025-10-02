@@ -1,0 +1,291 @@
+.container{
+    align-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+}
+
+
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 300px;
+    font-size: 13px;
+}
+
+.button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+    background-color: rgb(49, 189, 49);
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 13px;
+    color: white;
+    border: none;
+    font-weight: 500;
+}
+
+.link{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.main{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    margin-top: 150px;
+    background-color: #F5F7FA;
+    margin: 10px;
+}
+
+.years{
+    color: rgb(49, 189, 49);
+    font-size: 50px;
+}
+
+.lesson{
+    font-size: 50px;
+}
+
+.text{
+    font-size: 10px;
+}
+
+.hero-image{
+    width: 100p;
+}
+
+.image{
+    width: 10px;
+}
+
+.content{
+    gap: 100px;
+    align-items: center;
+    margin-top: 150px;
+    background-color: #F5F7FA;
+    margin: 30px;
+}
+
+.section {
+    text-align: center;
+  }
+  
+  .clients {
+    display: inline-block;
+  }
+  
+  .logos {
+    align-items: center;
+    gap: 20px;
+    width: 900px;
+  }
+
+  #title{
+    color: rgb(98, 98, 98);
+    font-size: 35px;
+  }
+
+  .text1{
+    color: rgb(98, 98, 98);
+  }
+
+  .features{
+    color: rgb(98, 98, 98);
+    text-align: center;
+  }
+
+  .title{
+    color: rgb(98, 98, 98);
+    font-size: 35px;
+  }
+
+  .cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .card{
+    text-align: center;
+    border-radius: 10px;
+    margin: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  #img{
+    width: 100px;
+  }
+
+  .random{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 100px;
+  }
+
+  .con{
+    padding-left: 400px;
+  }
+
+  #head1{
+    color: rgb(98, 98, 98);
+    font-size: 35px;
+  }
+
+  #head2{
+    color: rgb(49, 189, 49);
+    font-size: 35px;
+  }
+  
+  .grup {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f5f7fa;
+    padding: 30px 30px;
+    font-family: Arial, sans-serif;
+    margin-bottom: 5px;
+  }
+
+  #con1 {
+    max-width: 40%;
+  }
+
+  #ran-text {
+    color: #555;
+    font-size: 16px;
+  }
+
+  .sec {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px 60px;
+  }
+
+  .item {
+    display: flex;
+    align-items: center;
+  }
+
+  .icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+  }
+
+  .content h2 {
+    font-size: 22px;
+    color: #333;
+    margin-bottom: 5px;
+  }
+
+  .content p {
+    color: #555;
+    font-size: 14px;
+  }
+
+  .last h1{
+    color: #212121;
+    font-size: 50px;
+    text-align: center;
+  }
+
+  #but{
+      display: block;
+      margin-left: 500px;
+  }
+
+  .last{
+    background-color: #F5F7FA;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .footer{
+    display: flex;
+    background-color: #182226e9;
+  }
+
+  .logo2{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+}
+
+.abc{
+  width: 30px;
+  padding-right: 10px;
+  border-radius: 50px;
+  color: #333;
+}
+
+.side1{
+  color: white;
+  padding-left: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 100px;
+  font-weight: 300;
+}
+
+.tex-456{
+  font-size: 15px;
+  font-weight: 10%;
+}
+
+.side2, .side3, .side4{
+  display: block;
+  color: white;
+  padding-bottom: 40px;
+  padding-right: 100px;
+  padding-top: 20px;
+}
+
+.line{
+  color: white;
+  display: block;
+  text-decoration: none;
+  padding-bottom: 10px;
+
+}
+
+.sides{
+  display: flex;
+}
+
+.email{
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #9f9d9d;
+  color: #F5F7FA;
+  width: 200px;
+}
